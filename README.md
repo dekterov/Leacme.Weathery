@@ -5,6 +5,7 @@
 This application features the ability to retrieve the weather forecast for a location.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71704355-168ef280-2d97-11ea-9f26-961a66dc6405.png)
 
 ## Application Compiling
 
